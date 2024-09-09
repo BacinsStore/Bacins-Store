@@ -313,12 +313,11 @@ footer
 
     .sosmed
     {
-        font-size: 10pt;
-        padding-left: 6rem;
+        font-size: 5pt;
     }
 
     .sosmed img
     {
-        width: 10%;
+        width: 5%;
     }
 }
