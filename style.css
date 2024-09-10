@@ -296,9 +296,9 @@ nav ul li a
 .popup .close {
     position: absolute;
     top: 20px;
-    right: 35px;
+    right: 20px;
     transition: all 200ms;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
     color: #333;
