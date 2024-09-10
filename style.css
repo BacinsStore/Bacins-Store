@@ -279,13 +279,12 @@ nav ul li a
     .popup 
 {
     margin: 10px auto;
-    padding: 15px;
+    padding: 10px;
     background: var(--dark-blue);
-    border-radius: 20px;
+    border-radius: 15px;
     width: 65%;
     position: relative;
     transition: all 5s ease-in-out;
-    font-size: 50%;
 }
   
 .popup h2 {
