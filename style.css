@@ -281,8 +281,8 @@ nav ul li a
     margin: 10px auto;
     padding: 10px;
     background: var(--dark-blue);
-    border-radius: 15px;
-    width: 65%;
+    border-radius: 20px;
+    width: 50%;
     position: relative;
     transition: all 5s ease-in-out;
 }
