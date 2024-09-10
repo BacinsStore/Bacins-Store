@@ -276,25 +276,24 @@ nav ul li a
         margin-right: 20%;
     }
 
-    .popup
-    {
-        margin: 70px auto;
-        padding: 20px;
-        background: var(--dark-blue);
-        border-radius: 5px;
-        width: 30%;
-        position: relative;
-        transition: all 5s ease-in-out;
-    }
+    .popup 
+{
+    margin: 10px auto;
+    padding: 10px;
+    background: var(--dark-blue);
+    border-radius: 20px;
+    width: 75%;
+    position: relative;
+    transition: all 5s ease-in-out;
+}
+  
+.popup h2 {
+    margin-top: 0;
+    color: var(--white);
+    font-family: Tahoma, Arial, sans-serif;
+}
 
-    .popup h2
-    {
-        margin-top: 0;
-        color: var(--white);
-        font-family: Tahoma, Arial, sans-serif;
-    }
-
-    .popup .close {
+.popup .close {
     position: absolute;
     top: 20px;
     right: 30px;
@@ -303,10 +302,10 @@ nav ul li a
     font-weight: bold;
     text-decoration: none;
     color: #333;
-   }
+}
 
-   .popup .close:hover 
-   {
+.popup .close:hover 
+{
     color: #06D85F;
-   }
+}
 }
