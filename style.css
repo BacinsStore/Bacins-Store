@@ -281,8 +281,8 @@ nav ul li a
     margin: 10px auto;
     padding: 10px;
     background: var(--dark-blue);
-    border-radius: 50px;
-    width: 70%;
+    border-radius: 10px;
+    width: 30%;
     position: relative;
     transition: all 5s ease-in-out;
 }
@@ -295,10 +295,10 @@ nav ul li a
 
 .popup .close {
     position: absolute;
-    top: 50px;
+    top: 20px;
     right: 20px;
     transition: all 200ms;
-    font-size: 50px;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: none;
     color: #333;
