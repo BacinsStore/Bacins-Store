@@ -143,8 +143,8 @@ nav ul li a
     margin: 50px auto;
     padding: 10px;
     background: var(--dark-blue);
-    border-radius: 3px;
-    width: 10%;
+    border-radius: 5px;
+    width: 20%;
     position: relative;
     transition: all 5s ease-in-out;
     font-size: 30%;
