@@ -140,11 +140,11 @@ nav ul li a
 
 .popup 
 {
-    margin: 70px auto;
+    margin: 90px auto;
     padding: 30px;
     background: var(--dark-blue);
-    border-radius: 5px;
-    width: 50%;
+    border-radius: 10px;
+    width: 40%;
     position: relative;
     transition: all 5s ease-in-out;
     font-size: 30%;
@@ -161,7 +161,7 @@ nav ul li a
     top: 20px;
     right: 30px;
     transition: all 200ms;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
     color: #333;
