@@ -140,14 +140,13 @@ nav ul li a
 
 .popup 
 {
-    margin: 90px auto;
-    padding: 30px;
+    margin: 70px auto;
+    padding: 20px;
     background: var(--dark-blue);
-    border-radius: 10px;
-    width: 40%;
+    border-radius: 5px;
+    width: 30%;
     position: relative;
     transition: all 5s ease-in-out;
-    font-size: 30%;
 }
   
 .popup h2 {
@@ -171,7 +170,6 @@ nav ul li a
 {
     color: #06D85F;
 }
-
 .content 
 {
     max-height: 30%;
